@@ -1,1 +1,5 @@
-console.log("Hello world");
+
+first=secound
+
+console.log(first);
+
